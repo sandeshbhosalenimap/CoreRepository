@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\CORE_5_API\DataLayer\bin\Debug\net5.0\StudentWEBAPI.Models.deps.json
+C:\Users\HP\source\repos\CORE_5_API\DataLayer\bin\Debug\net5.0\StudentWEBAPI.Models.dll
+C:\Users\HP\source\repos\CORE_5_API\DataLayer\bin\Debug\net5.0\StudentWEBAPI.Models.pdb
+C:\Users\HP\source\repos\CORE_5_API\DataLayer\obj\Debug\net5.0\StudentWEBAPI.Models.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CORE_5_API\DataLayer\obj\Debug\net5.0\StudentWEBAPI.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CORE_5_API\DataLayer\obj\Debug\net5.0\StudentWEBAPI.Models.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CORE_5_API\DataLayer\obj\Debug\net5.0\StudentWEBAPI.Models.AssemblyInfo.cs
+C:\Users\HP\source\repos\CORE_5_API\DataLayer\obj\Debug\net5.0\StudentWEBAPI.Models.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CORE_5_API\DataLayer\obj\Debug\net5.0\StudentWEBAPI.Models.dll
+C:\Users\HP\source\repos\CORE_5_API\DataLayer\obj\Debug\net5.0\refint\StudentWEBAPI.Models.dll
+C:\Users\HP\source\repos\CORE_5_API\DataLayer\obj\Debug\net5.0\StudentWEBAPI.Models.pdb
+C:\Users\HP\source\repos\CORE_5_API\DataLayer\obj\Debug\net5.0\ref\StudentWEBAPI.Models.dll

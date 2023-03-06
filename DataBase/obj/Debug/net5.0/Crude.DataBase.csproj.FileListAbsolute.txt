@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Api\Crud.Core.Api\DataBase\bin\Debug\net5.0\Crude.DataBase.deps.json
+C:\Users\HP\Desktop\Api\Crud.Core.Api\DataBase\bin\Debug\net5.0\Crude.DataBase.dll
+C:\Users\HP\Desktop\Api\Crud.Core.Api\DataBase\bin\Debug\net5.0\Crude.DataBase.pdb
+C:\Users\HP\Desktop\Api\Crud.Core.Api\DataBase\bin\Debug\net5.0\Crude.Models.dll
+C:\Users\HP\Desktop\Api\Crud.Core.Api\DataBase\bin\Debug\net5.0\Crude.Models.pdb
+C:\Users\HP\Desktop\Api\Crud.Core.Api\DataBase\obj\Debug\net5.0\Crude.DataBase.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Api\Crud.Core.Api\DataBase\obj\Debug\net5.0\Crude.DataBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Api\Crud.Core.Api\DataBase\obj\Debug\net5.0\Crude.DataBase.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Api\Crud.Core.Api\DataBase\obj\Debug\net5.0\Crude.DataBase.AssemblyInfo.cs
+C:\Users\HP\Desktop\Api\Crud.Core.Api\DataBase\obj\Debug\net5.0\Crude.DataBase.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Api\Crud.Core.Api\DataBase\obj\Debug\net5.0\Crude.DataBase.csproj.CopyComplete
+C:\Users\HP\Desktop\Api\Crud.Core.Api\DataBase\obj\Debug\net5.0\Crude.DataBase.dll
+C:\Users\HP\Desktop\Api\Crud.Core.Api\DataBase\obj\Debug\net5.0\refint\Crude.DataBase.dll
+C:\Users\HP\Desktop\Api\Crud.Core.Api\DataBase\obj\Debug\net5.0\Crude.DataBase.pdb
+C:\Users\HP\Desktop\Api\Crud.Core.Api\DataBase\obj\Debug\net5.0\ref\Crude.DataBase.dll

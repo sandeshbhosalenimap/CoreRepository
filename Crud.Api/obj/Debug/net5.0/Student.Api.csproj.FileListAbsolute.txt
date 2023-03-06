@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\CORE_5_API\CORE_5_API\obj\Debug\net5.0\Student.Api.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CORE_5_API\CORE_5_API\obj\Debug\net5.0\Student.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CORE_5_API\CORE_5_API\obj\Debug\net5.0\Student.Api.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CORE_5_API\CORE_5_API\obj\Debug\net5.0\Student.Api.AssemblyInfo.cs
+C:\Users\HP\source\repos\CORE_5_API\CORE_5_API\obj\Debug\net5.0\Student.Api.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CORE_5_API\CORE_5_API\obj\Debug\net5.0\Student.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\source\repos\CORE_5_API\CORE_5_API\obj\Debug\net5.0\Student.Api.MvcApplicationPartsAssemblyInfo.cache

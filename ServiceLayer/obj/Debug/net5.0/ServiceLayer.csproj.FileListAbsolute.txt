@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\CORE_5_API\ServiceLayer\bin\Debug\net5.0\ServiceLayer.deps.json
+C:\Users\HP\source\repos\CORE_5_API\ServiceLayer\bin\Debug\net5.0\ServiceLayer.dll
+C:\Users\HP\source\repos\CORE_5_API\ServiceLayer\bin\Debug\net5.0\ServiceLayer.pdb
+C:\Users\HP\source\repos\CORE_5_API\ServiceLayer\bin\Debug\net5.0\DataModel.dll
+C:\Users\HP\source\repos\CORE_5_API\ServiceLayer\bin\Debug\net5.0\DBALayer.dll
+C:\Users\HP\source\repos\CORE_5_API\ServiceLayer\bin\Debug\net5.0\DataModel.pdb
+C:\Users\HP\source\repos\CORE_5_API\ServiceLayer\bin\Debug\net5.0\DBALayer.pdb
+C:\Users\HP\source\repos\CORE_5_API\ServiceLayer\obj\Debug\net5.0\ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\CORE_5_API\ServiceLayer\obj\Debug\net5.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\CORE_5_API\ServiceLayer\obj\Debug\net5.0\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\CORE_5_API\ServiceLayer\obj\Debug\net5.0\ServiceLayer.AssemblyInfo.cs
+C:\Users\HP\source\repos\CORE_5_API\ServiceLayer\obj\Debug\net5.0\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CORE_5_API\ServiceLayer\obj\Debug\net5.0\ServiceLayer.csproj.CopyComplete
+C:\Users\HP\source\repos\CORE_5_API\ServiceLayer\obj\Debug\net5.0\ServiceLayer.dll
+C:\Users\HP\source\repos\CORE_5_API\ServiceLayer\obj\Debug\net5.0\refint\ServiceLayer.dll
+C:\Users\HP\source\repos\CORE_5_API\ServiceLayer\obj\Debug\net5.0\ServiceLayer.pdb
+C:\Users\HP\source\repos\CORE_5_API\ServiceLayer\obj\Debug\net5.0\ref\ServiceLayer.dll
